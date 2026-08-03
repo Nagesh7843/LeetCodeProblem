@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Nagesh7843/LeetCodeProblem/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Nagesh7843/LeetCodeProblem/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/Nagesh7843/LeetCodeProblem/tree/master/0035-search-insert-position) |
+| [0053-maximum-subarray](https://github.com/Nagesh7843/LeetCodeProblem/tree/master/0053-maximum-subarray) |
 | [2965-find-missing-and-repeated-values](https://github.com/Nagesh7843/LeetCodeProblem/tree/master/2965-find-missing-and-repeated-values) |
 ## Hash Table
 |  |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Nagesh7843/LeetCodeProblem/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/Nagesh7843/LeetCodeProblem/tree/master/0053-maximum-subarray) |
 ## Math
 |  |
 | ------- |
@@ -42,4 +44,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Nagesh7843/LeetCodeProblem/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Nagesh7843/LeetCodeProblem/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
