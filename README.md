@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Nagesh7843/LeetCodeProblem/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/Nagesh7843/LeetCodeProblem/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/Nagesh7843/LeetCodeProblem/tree/master/0053-maximum-subarray) |
+| [0073-set-matrix-zeroes](https://github.com/Nagesh7843/LeetCodeProblem/tree/master/0073-set-matrix-zeroes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Nagesh7843/LeetCodeProblem/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/Nagesh7843/LeetCodeProblem/tree/master/0268-missing-number) |
 | [2965-find-missing-and-repeated-values](https://github.com/Nagesh7843/LeetCodeProblem/tree/master/2965-find-missing-and-repeated-values) |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Nagesh7843/LeetCodeProblem/tree/master/0001-two-sum) |
+| [0073-set-matrix-zeroes](https://github.com/Nagesh7843/LeetCodeProblem/tree/master/0073-set-matrix-zeroes) |
 | [0202-happy-number](https://github.com/Nagesh7843/LeetCodeProblem/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Nagesh7843/LeetCodeProblem/tree/master/0268-missing-number) |
 | [2965-find-missing-and-repeated-values](https://github.com/Nagesh7843/LeetCodeProblem/tree/master/2965-find-missing-and-repeated-values) |
@@ -40,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Nagesh7843/LeetCodeProblem/tree/master/0073-set-matrix-zeroes) |
 | [2965-find-missing-and-repeated-values](https://github.com/Nagesh7843/LeetCodeProblem/tree/master/2965-find-missing-and-repeated-values) |
 ## Two Pointers
 |  |
