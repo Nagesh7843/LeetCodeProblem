@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Nagesh7843/LeetCodeProblem/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/Nagesh7843/LeetCodeProblem/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/Nagesh7843/LeetCodeProblem/tree/master/0073-set-matrix-zeroes) |
+| [0090-subsets-ii](https://github.com/Nagesh7843/LeetCodeProblem/tree/master/0090-subsets-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Nagesh7843/LeetCodeProblem/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/Nagesh7843/LeetCodeProblem/tree/master/0268-missing-number) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Nagesh7843/LeetCodeProblem/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0090-subsets-ii](https://github.com/Nagesh7843/LeetCodeProblem/tree/master/0090-subsets-ii) |
 | [0268-missing-number](https://github.com/Nagesh7843/LeetCodeProblem/tree/master/0268-missing-number) |
 ## Sorting
 |  |
@@ -93,4 +95,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Nagesh7843/LeetCodeProblem/tree/master/0852-peak-index-in-a-mountain-array) |
+## Backtracking
+|  |
+| ------- |
+| [0090-subsets-ii](https://github.com/Nagesh7843/LeetCodeProblem/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
