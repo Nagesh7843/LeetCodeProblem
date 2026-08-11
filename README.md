@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Nagesh7843/LeetCodeProblem/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/Nagesh7843/LeetCodeProblem/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/Nagesh7843/LeetCodeProblem/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/Nagesh7843/LeetCodeProblem/tree/master/0268-missing-number) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Nagesh7843/LeetCodeProblem/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Divide and Conquer
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Nagesh7843/LeetCodeProblem/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/Nagesh7843/LeetCodeProblem/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Nagesh7843/LeetCodeProblem/tree/master/0268-missing-number) |
 | [2965-find-missing-and-repeated-values](https://github.com/Nagesh7843/LeetCodeProblem/tree/master/2965-find-missing-and-repeated-values) |
@@ -99,4 +101,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/Nagesh7843/LeetCodeProblem/tree/master/0090-subsets-ii) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Nagesh7843/LeetCodeProblem/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
