@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Nagesh7843/LeetCodeProblem/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Nagesh7843/LeetCodeProblem/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/Nagesh7843/LeetCodeProblem/tree/master/0035-search-insert-position) |
+| [0042-trapping-rain-water](https://github.com/Nagesh7843/LeetCodeProblem/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Nagesh7843/LeetCodeProblem/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/Nagesh7843/LeetCodeProblem/tree/master/0073-set-matrix-zeroes) |
 | [0090-subsets-ii](https://github.com/Nagesh7843/LeetCodeProblem/tree/master/0090-subsets-ii) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Nagesh7843/LeetCodeProblem/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0042-trapping-rain-water](https://github.com/Nagesh7843/LeetCodeProblem/tree/master/0042-trapping-rain-water) |
 | [0202-happy-number](https://github.com/Nagesh7843/LeetCodeProblem/tree/master/0202-happy-number) |
 ## String
 |  |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Nagesh7843/LeetCodeProblem/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Nagesh7843/LeetCodeProblem/tree/master/0053-maximum-subarray) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -105,4 +108,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Nagesh7843/LeetCodeProblem/tree/master/0069-sqrtx) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Nagesh7843/LeetCodeProblem/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Nagesh7843/LeetCodeProblem/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
