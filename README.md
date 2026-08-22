@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Nagesh7843/LeetCodeProblem/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Nagesh7843/LeetCodeProblem/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Nagesh7843/LeetCodeProblem/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Nagesh7843/LeetCodeProblem/tree/master/0349-intersection-of-two-arrays) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Nagesh7843/LeetCodeProblem/tree/master/0852-peak-index-in-a-mountain-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/Nagesh7843/LeetCodeProblem/tree/master/2965-find-missing-and-repeated-values) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Nagesh7843/LeetCodeProblem/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Nagesh7843/LeetCodeProblem/tree/master/0073-set-matrix-zeroes) |
 | [0202-happy-number](https://github.com/Nagesh7843/LeetCodeProblem/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Nagesh7843/LeetCodeProblem/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Nagesh7843/LeetCodeProblem/tree/master/0349-intersection-of-two-arrays) |
 | [2965-find-missing-and-repeated-values](https://github.com/Nagesh7843/LeetCodeProblem/tree/master/2965-find-missing-and-repeated-values) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Nagesh7843/LeetCodeProblem/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Binary Search
@@ -38,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Nagesh7843/LeetCodeProblem/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Nagesh7843/LeetCodeProblem/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Nagesh7843/LeetCodeProblem/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Nagesh7843/LeetCodeProblem/tree/master/0349-intersection-of-two-arrays) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Nagesh7843/LeetCodeProblem/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Divide and Conquer
 |  |
@@ -70,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Nagesh7843/LeetCodeProblem/tree/master/0042-trapping-rain-water) |
 | [0202-happy-number](https://github.com/Nagesh7843/LeetCodeProblem/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/Nagesh7843/LeetCodeProblem/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/Nagesh7843/LeetCodeProblem/tree/master/0349-intersection-of-two-arrays) |
 ## String
 |  |
 | ------- |
@@ -100,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Nagesh7843/LeetCodeProblem/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/Nagesh7843/LeetCodeProblem/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Nagesh7843/LeetCodeProblem/tree/master/0349-intersection-of-two-arrays) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
