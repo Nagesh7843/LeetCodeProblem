@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0175-combine-two-tables](https://github.com/Nagesh7843/LeetCodeProblem/tree/master/0175-combine-two-tables) |
 | [0183-customers-who-never-order](https://github.com/Nagesh7843/LeetCodeProblem/tree/master/0183-customers-who-never-order) |
 ## Z Algorithm
 |  |
