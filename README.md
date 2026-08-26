@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Nagesh7843/LeetCodeProblem/tree/master/0005-longest-palindromic-substring) |
 | [0027-remove-element](https://github.com/Nagesh7843/LeetCodeProblem/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Nagesh7843/LeetCodeProblem/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/Nagesh7843/LeetCodeProblem/tree/master/0042-trapping-rain-water) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Nagesh7843/LeetCodeProblem/tree/master/0005-longest-palindromic-substring) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Nagesh7843/LeetCodeProblem/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Nagesh7843/LeetCodeProblem/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/Nagesh7843/LeetCodeProblem/tree/master/0344-reverse-string) |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Nagesh7843/LeetCodeProblem/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/Nagesh7843/LeetCodeProblem/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Nagesh7843/LeetCodeProblem/tree/master/0053-maximum-subarray) |
 | [1137-n-th-tribonacci-number](https://github.com/Nagesh7843/LeetCodeProblem/tree/master/1137-n-th-tribonacci-number) |
@@ -170,4 +173,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/Nagesh7843/LeetCodeProblem/tree/master/0459-repeated-substring-pattern) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Nagesh7843/LeetCodeProblem/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
