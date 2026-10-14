@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1323-maximum-69-number](https://github.com/Nagesh7843/LeetCodeProblem/tree/master/1323-maximum-69-number) |
 | [2965-find-missing-and-repeated-values](https://github.com/Nagesh7843/LeetCodeProblem/tree/master/2965-find-missing-and-repeated-values) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Nagesh7843/LeetCodeProblem/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/Nagesh7843/LeetCodeProblem/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3870-count-commas-in-range](https://github.com/Nagesh7843/LeetCodeProblem/tree/master/3870-count-commas-in-range) |
 ## Matrix
 |  |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1323-maximum-69-number](https://github.com/Nagesh7843/LeetCodeProblem/tree/master/1323-maximum-69-number) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/Nagesh7843/LeetCodeProblem/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Sliding Window
 |  |
 | ------- |
