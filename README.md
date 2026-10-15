@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Nagesh7843/LeetCodeProblem/tree/master/0349-intersection-of-two-arrays) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Nagesh7843/LeetCodeProblem/tree/master/0852-peak-index-in-a-mountain-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Nagesh7843/LeetCodeProblem/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Nagesh7843/LeetCodeProblem/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2965-find-missing-and-repeated-values](https://github.com/Nagesh7843/LeetCodeProblem/tree/master/2965-find-missing-and-repeated-values) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Nagesh7843/LeetCodeProblem/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Hash Table
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Nagesh7843/LeetCodeProblem/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Nagesh7843/LeetCodeProblem/tree/master/0349-intersection-of-two-arrays) |
 | [0567-permutation-in-string](https://github.com/Nagesh7843/LeetCodeProblem/tree/master/0567-permutation-in-string) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Nagesh7843/LeetCodeProblem/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2965-find-missing-and-repeated-values](https://github.com/Nagesh7843/LeetCodeProblem/tree/master/2965-find-missing-and-repeated-values) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Nagesh7843/LeetCodeProblem/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Binary Search
@@ -231,4 +233,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Nagesh7843/LeetCodeProblem/tree/master/0232-implement-queue-using-stacks) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Nagesh7843/LeetCodeProblem/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Nagesh7843/LeetCodeProblem/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
