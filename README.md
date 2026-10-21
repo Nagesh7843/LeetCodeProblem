@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Nagesh7843/LeetCodeProblem/tree/master/0567-permutation-in-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Nagesh7843/LeetCodeProblem/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Nagesh7843/LeetCodeProblem/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/Nagesh7843/LeetCodeProblem/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## String Matching
 |  |
 | ------- |
