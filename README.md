@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Nagesh7843/LeetCodeProblem/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Nagesh7843/LeetCodeProblem/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Nagesh7843/LeetCodeProblem/tree/master/0349-intersection-of-two-arrays) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Nagesh7843/LeetCodeProblem/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Nagesh7843/LeetCodeProblem/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1254-number-of-closed-islands](https://github.com/Nagesh7843/LeetCodeProblem/tree/master/1254-number-of-closed-islands) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Nagesh7843/LeetCodeProblem/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Nagesh7843/LeetCodeProblem/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/Nagesh7843/LeetCodeProblem/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Nagesh7843/LeetCodeProblem/tree/master/0268-missing-number) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Nagesh7843/LeetCodeProblem/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [1137-n-th-tribonacci-number](https://github.com/Nagesh7843/LeetCodeProblem/tree/master/1137-n-th-tribonacci-number) |
 | [1323-maximum-69-number](https://github.com/Nagesh7843/LeetCodeProblem/tree/master/1323-maximum-69-number) |
 | [2965-find-missing-and-repeated-values](https://github.com/Nagesh7843/LeetCodeProblem/tree/master/2965-find-missing-and-repeated-values) |
